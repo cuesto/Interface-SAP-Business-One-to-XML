@@ -1,0 +1,51 @@
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML Draft OrdenVenta.exe.config
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML Draft OrdenVenta.exe.manifest
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML Draft OrdenVenta.application
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML Draft OrdenVenta.exe
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML Draft OrdenVenta.pdb
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csproj.ResolveComReference.cache
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML_Draft_OrdenVenta.Form1.resources
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML_Draft_OrdenVenta.Properties.Resources.resources
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csproj.GenerateResource.Cache
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.TrustInfo.xml
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.exe.manifest
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.application
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.exe
+C:\Users\jonathanc\Dropbox\DT Solutions\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.pdb
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csproj.ResolveComReference.cache
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csprojResolveAssemblyReference.cache
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML_Draft_OrdenVenta.Form1.resources
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML_Draft_OrdenVenta.Properties.Resources.resources
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csproj.GenerateResource.Cache
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML_Draft_OrdenVenta.AboutBox1.resources
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\Interfaz XML SAP Business One.exe.config
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\Interfaz XML SAP Business One.exe.manifest
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\Interfaz XML SAP Business One.application
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\Interfaz XML SAP Business One.exe
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\Interfaz XML SAP Business One.pdb
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interfaz XML SAP Business One.TrustInfo.xml
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interfaz XML SAP Business One.exe.manifest
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interfaz XML SAP Business One.application
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interfaz XML SAP Business One.exe
+C:\Users\jonathanc\Dropbox\DTS\clientes\Agrifeed\desarrollos\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interfaz XML SAP Business One.pdb
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csproj.ResolveComReference.cache
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csprojResolveAssemblyReference.cache
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML_Draft_OrdenVenta.Form1.resources
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csproj.GenerateResource.Cache
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML_SAP_Business_One.Properties.Resources.resources
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.exe.config
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.exe.manifest
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.application
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.exe
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.pdb
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.TrustInfo.xml
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.exe.manifest
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.application
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.exe
+C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.pdb

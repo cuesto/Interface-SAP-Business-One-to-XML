@@ -43,14 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XML SAP Business One.exe" size="889344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SAPBusinessOneSDK.dll" size="4252672">
+      <assemblyIdentity name="SAPBusinessOneSDK" version="1.0.0.1" publicKeyToken="C7C3CB60E45D119F" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>TH0C1TnBZKlxfUhJVYWVpCeZJWE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XML SAP Business One.exe" size="878592">
       <assemblyIdentity name="XML SAP Business One" version="1.0.0.9" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>flaUgMKYox+jWqqxyLDJysQox6w=</dsig:DigestValue>
+        <dsig:DigestValue>VZjfMKuAIJ2MkOuwXHAiomB5mPA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

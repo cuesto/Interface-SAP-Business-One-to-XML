@@ -49,3 +49,17 @@ C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\X
 C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.application
 C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.exe
 C:\Users\jonathanc\Downloads\XML Draft Orden de Venta SAP\XML Draft OrdenVenta\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.pdb
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.exe.config
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.exe.manifest
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.application
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.exe
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\bin\Debug\XML SAP Business One.pdb
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML_Draft_OrdenVenta.Form1.resources
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML_SAP_Business_One.Properties.Resources.resources
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csproj.GenerateResource.Cache
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.TrustInfo.xml
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.exe.manifest
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.application
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.exe
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.pdb

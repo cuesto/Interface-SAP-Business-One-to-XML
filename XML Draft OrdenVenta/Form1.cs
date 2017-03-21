@@ -69,23 +69,23 @@ namespace XML_Draft_OrdenVenta
             switch (comboBox1.SelectedIndex)
             {
                 case 0:
-                    oDoc = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oDrafts);
+                    oDoc = (SAPbobsCOM.Documents)oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oDrafts);
                     table = "ODRF";
                     break;
                 case 1:
-                    oDoc = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oOrders);
+                    oDoc = (SAPbobsCOM.Documents)oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oOrders);
                     table = "ORDR";
                     break;
                 case 2:
-                    oDoc = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oInvoices);
+                    oDoc = (SAPbobsCOM.Documents)oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oInvoices);
                     table = "OINV";
                     break;
                 case 3:
-                    oDoc = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oCreditNotes);
+                    oDoc = (SAPbobsCOM.Documents)oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oCreditNotes);
                     table = "ORIN";
                     break;
                 case 4:
-                    oDoc = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oReturns);
+                    oDoc = (SAPbobsCOM.Documents)oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.oReturns);
                     table = "ORDN";
                     break;
                 default:
@@ -94,7 +94,7 @@ namespace XML_Draft_OrdenVenta
 
             try
             {
-                SAPbobsCOM.Recordset oRs = oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset);
+                SAPbobsCOM.Recordset oRs = (SAPbobsCOM.Recordset)oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset);
                 // query to get the docEntry
                 oRs.DoQuery("select DocEntry from " + table + " where DocNum = " + textBox1.Text);
                 var id = oRs.Fields.Item(0).Value;

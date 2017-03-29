@@ -33,7 +33,7 @@ namespace XML_Draft_OrdenVenta
 
             // by following the steps specified above, the following
             // statment should be suficient for either development or run mode
-            sConnectionString = "0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056";
+            sConnectionString = "0030002C0030002C00530041005000420044005F00440061007400650076002C0050004C006F006D0056004900490056"; 
 
             // connect to a running SBO Application
             sboGuiApi.Connect(sConnectionString);
@@ -99,7 +99,7 @@ namespace XML_Draft_OrdenVenta
                 oRs.DoQuery("select DocEntry from " + table + " where DocNum = " + textBox1.Text);
                 var id = oRs.Fields.Item(0).Value;
                 oDoc.GetByKey(Convert.ToInt32(id));
-                oCompany.XmlExportType = SAPbobsCOM.BoXmlExportTypes.xet_ExportImportMode;
+                oCompany.XmlExportType = SAPbobsCOM.BoXmlExportTypes.xet_AllNodes;
                 oCompany.XMLAsString = false;
                 FileDialog dlg = new SaveFileDialog();
                 dlg.Filter = "xml files (*.xml)|*.xml";

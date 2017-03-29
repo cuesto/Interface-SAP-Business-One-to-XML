@@ -63,3 +63,4 @@ C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft O
 C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.application
 C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.exe
 C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML SAP Business One.pdb
+C:\Users\jonathan\Documents\GitHub\Interface-SAP-Business-One-to-XML\XML Draft OrdenVenta\obj\Debug\XML Draft OrdenVenta.csprojResolveAssemblyReference.cache
